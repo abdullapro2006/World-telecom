@@ -1,0 +1,40 @@
+
+
+.cards{
+    cursor: pointer;
+   margin-top: 150px;
+    
+}
+
+ .cards .card-body h5:hover{
+    
+        color: red;
+    
+ }
+
+ .buttons button{
+    width: 279px;
+    height: 40px;
+    background-color: #8dc63f !important;
+ }
+
+ .buttons p{
+   font-size: 18px;
+ }
+
+ .sales {
+    border-radius: 100%;
+    width: 90px;
+    height: 90px;
+    display: flex !important;
+    justify-content: center;
+    left: 0;
+    padding: 12px;
+    position: absolute;
+    bottom: 290px;
+    margin-right: auto;
+    text-align: center;
+    font-size:15px ;
+
+
+ }
